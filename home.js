@@ -1,10 +1,3 @@
-//Decrease numbers
-num1--;
-console.log(num1);
-
-// Divide, Multiply, remainder.
-console.log(num1 % 5);
-
 ////Increment and Decreament by any number.
 num1 += 10;
 console.log(num1);
