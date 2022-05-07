@@ -2,18 +2,6 @@
 num1 += 10;
 console.log(num1);
 
-/* (multiline comment) functions.
-1.  Create a function.
-2.  Call the function.
-*/
-// Creating a function.
-function fun() {
-  console.log('This is a function');
-}
-
-// Calling a function.
-fun();
-
 /* Let's create a function that takes in a name 
 and returns to us "Hello" followed by your name.
 
