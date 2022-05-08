@@ -10,11 +10,6 @@ Name: Chace
 The function should return "Hello Chace"
 */
 
-function greeting(yourName) {
-  var result = 'Hello ' + yourName; // screen concatenation.
-  console.log(result);
-}
-
 // var name =  prompt('What is your name?');
 // greeting(name);
 
